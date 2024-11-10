@@ -31,11 +31,11 @@
   
 Скриншоты  
 <details>    
-![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/1.1.PNG)
-![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/2.2.PNG)
-![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/3.3.PNG)
-![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/4.4.PNG)
-![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/5.5.PNG)
-![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/6.6.PNG)
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/1.1.PNG)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/2.2.PNG)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/3.3.PNG)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/4.4.PNG)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/5.5.PNG)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/6.6.PNG)  
 </details>
 
