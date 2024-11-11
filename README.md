@@ -79,7 +79,7 @@
   
 - UDP  
 Отправка пустого UDP  
-Получаем ответ "port unreachable", порт азкрыт.  
-Получаем ответ на запрос, порт открыт.  
-Ответ не пришел, порт открыт или фильтруется.
+Получаем ответ "port unreachable", порт закрыт.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/su4.2.PNG)
+Получаем ответ на запрос, порт открыт.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/su4.PNG)
+Ответ не пришел, порт открыт или фильтруется.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/su4.1.PNG)
 
