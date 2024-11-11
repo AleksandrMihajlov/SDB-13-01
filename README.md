@@ -65,16 +65,17 @@
 Отправка TCP-SYN  
 Получаем ответ SYN/ACK порт открыт, готов к соединению.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/ss1.PNG)
 Получаем ответ RST, порт закрыт.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/ss1.1.PNG)
-Ответ не пришел, порт фильтруется.  
+Ответ не пришел, порт фильтруется -  не удалось "поймать" или утверждение ошибочное
   
 - FIN  
 Отправка TCP-FIN  
-При не активном соединении, получаем RST для сброса соединения.  
+Не получаем ответ, порт открыт.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/sf2.PNG)  
+Получаем ответ  RST, порт закрыт.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/sf2.1.PNG)
   
 - Xmac  
 Отправка TCP-FIN,PSH,URG  
-Получаем ответ RST, порт закрыт.  
-Ответ не пришел, порт фильтруется.  
+Получаем ответ RST, порт закрыт.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/sx3.1.PNG)
+Ответ не пришел, порт открыт/фильтруется.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/sx3.PNG)
   
 - UDP  
 Отправка пустого UDP  
