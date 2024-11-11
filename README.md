@@ -63,8 +63,8 @@
   
 - SYN  
 Отправка TCP-SYN  
-Получаем ответ SYN/ACK порт открыт, готов к соединению.  
-Получаем ответ RST, порт закрыт.  
+Получаем ответ SYN/ACK порт открыт, готов к соединению.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/ss1.PNG)
+Получаем ответ RST, порт закрыт.  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-01/blob/main/ss1.1.PNG)
 Ответ не пришел, порт фильтруется.  
   
 - FIN  
